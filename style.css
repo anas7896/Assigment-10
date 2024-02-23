@@ -1,0 +1,111 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+    color: white;
+    background: rgb(142,134,148);
+    background: linear-gradient(90deg, rgba(142,134,148,1) 0%, rgba(0,0,0,0.8519782913165266) 50%, rgba(142,134,148,1) 100%);
+    margin: 0%;
+    margin-top: 15px;
+}
+
+.heading1{
+    margin-top: 70px;
+    font-size: 45px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.container{
+    display: flex;
+}
+
+.card1{
+    margin-bottom: 20px !important;
+    margin: auto;
+    border: 2px solid rgb(206, 205, 205);
+    border-radius: 8px;
+    min-width: 450px;
+}
+
+.card1:hover{
+    background-color: lightslategray;
+    color: white;
+    min-width: 500px;
+}
+
+.card1 img{
+    height: 300px;
+    width: 100%;
+}
+
+.Rs{
+    font-size: 28px !important;
+    font-weight: bold;
+    line-height: 30px !important;
+}
+
+.card1 p{
+    padding: 0 0 0 20px;
+    font-size: 23px;
+    line-height: 0px;
+}
+
+.address{
+    line-height: 10px !important;
+}
+
+.card2{
+    margin-top: 40px !important;
+    margin: auto;
+    border: 2px solid rgb(206, 205, 205);
+    border-radius: 8px;
+    width: 500px !important;
+    max-width: 880px;
+    min-width: 300px;
+    min-height: 500px !important;
+}
+
+.card2:hover{
+    background-color: lightslategray;
+    color: white;
+    min-width: 550px;
+    box-sizing: border-box;
+}
+
+.card2 img{
+    height: 300px;
+    width: 100%;
+}
+
+.Rs{
+    font-size: 38px !important;
+    font-weight: bold;
+    line-height: 30px !important;
+}
+
+.card2 p{
+    padding: 0 0 0 20px;
+    font-size: 25px;   
+}
+
+.Explore{
+    margin: 0px;
+    padding: 4px;
+    color: rgb(126, 126, 255);
+    text-align: center;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    background-color: rgb(228, 243, 248);
+    border-radius: 10px;
+}
+
+.bold{
+    font-weight: bold;
+}
